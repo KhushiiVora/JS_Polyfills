@@ -1,4 +1,4 @@
 # JS_Polyfills
 ---
 
-Implementing polyfills of JavaScript functions. 
+Starting with the implementation of polyfills of JavaScript functions. 
